@@ -4750,3 +4750,139 @@ FPackageName: Skipped package /Game/AIPhases/Player/BP_TopDownGameMode has a val
 [2025.01.18-17.56.03:559][126]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.18-17.56.03:559][126]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.18-17.56.03:559][126]AssetCheck: /Game/AIPhases/Characters/Player/BP_Character_AIPhases_Player Validating asset
+[2025.01.18-18.00.38:281][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3210.718994
+[2025.01.18-18.00.39:281][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.18-18.00.39:281][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3211.385986, Update Interval: 314.683685
+[2025.01.18-18.06.42:752][209]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/AIPhases/Characters/Material/MAT_Decal_Selected.MAT_Decal_Selected
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.01.18-18.06.42:757][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.01.18-18.06.42:757][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.01.18-18.06.42:758][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.01.18-18.06.42:758][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.01.18-18.06.42:758][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.01.18-18.06.42:758][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.01.18-18.06.42:758][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.01.18-18.06.42:758][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.01.18-18.06.42:758][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.01.18-18.06.42:758][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.01.18-18.06.42:758][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.01.18-18.06.42:758][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.01.18-18.06.42:758][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.01.18-18.06.42:758][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.01.18-18.06.42:758][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.01.18-18.06.42:758][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.01.18-18.06.42:758][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.01.18-18.06.42:758][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.01.18-18.06.42:758][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.01.18-18.06.42:758][209]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.01.18-18.06.42:758][209]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.01.18-18.06.42:770][209]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2025.01.18-18.06.42:775][209]LogStreaming: Display: FlushAsyncLoading(1072): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.18-18.06.42:888][209]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.01.18-18.06.44:418][209]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.18-18.06.44:418][209]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.18-18.06.44:418][209]MaterialEditorStats: Shader Count: 0
+[2025.01.18-18.06.44:418][209]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.18-18.06.44:981][211]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.18-18.06.44:981][211]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.18-18.06.44:981][211]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.18-18.06.44:981][211]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.18-18.06.44:981][211]MaterialEditorStats: Shader Count: 5
+[2025.01.18-18.06.44:981][211]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.18-18.06.47:404][487]LogMaterial: Warning: [AssetLog] /Engine/Transient.MAT_Decal_Selected: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Material using the DeferredDecal domain can only use the BlendModes Translucent, AlphaComposite or Modulate
+
+[2025.01.18-18.06.47:413][487]LogMaterial: Warning: [AssetLog] /Engine/Transient.MAT_Decal_Selected: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Material using the DeferredDecal domain can only use the BlendModes Translucent, AlphaComposite or Modulate
+
+[2025.01.18-18.06.47:415][487]LogMaterial: Warning: [AssetLog] /Engine/Transient.MAT_Decal_Selected: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Material using the DeferredDecal domain can only use the BlendModes Translucent, AlphaComposite or Modulate
+
+[2025.01.18-18.06.47:420][487]MaterialEditorStats: Error: [SM6] Material using the DeferredDecal domain can only use the BlendModes Translucent, AlphaComposite or Modulate
+[2025.01.18-18.06.49:152][681]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.18-18.06.49:152][681]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.18-18.06.49:152][681]MaterialEditorStats: Shader Count: 0
+[2025.01.18-18.06.49:152][681]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.18-18.06.51:569][962]LogMaterialEditor: Saving and Compiling material MAT_Decal_Selected
+[2025.01.18-18.06.51:672][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.01.18-18.06.51:727][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.18-18.06.51:739][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.18-18.06.51:774][962]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AIPhases/Characters/Material/MAT_Decal_Selected] ([1] browsable assets)...
+[2025.01.18-18.06.51:835][962]OBJ SavePackage:     Rendered thumbnail for [Material /Game/AIPhases/Characters/Material/MAT_Decal_Selected.MAT_Decal_Selected]
+[2025.01.18-18.06.51:835][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/AIPhases/Characters/Material/MAT_Decal_Selected]
+[2025.01.18-18.06.51:837][962]LogSavePackage: Moving output files for package: /Game/AIPhases/Characters/Material/MAT_Decal_Selected
+[2025.01.18-18.06.51:837][962]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_AIPhases/Saved/MAT_Decal_Selected9919785D4918BA5FF2627B892F3FD096.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_AIPhases/Content/AIPhases/Characters/Material/MAT_Decal_Selected.uasset'
+[2025.01.18-18.06.51:844][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.471 ms (total: 4.06 sec)
+[2025.01.18-18.06.51:884][962]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.18-18.06.51:884][962]LogContentValidation: Enabled validators:
+[2025.01.18-18.06.51:884][962]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.18-18.06.51:884][962]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.18-18.06.51:884][962]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.18-18.06.51:884][962]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.18-18.06.51:884][962]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.18-18.06.51:884][962]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.18-18.06.51:884][962]AssetCheck: /Game/AIPhases/Characters/Material/MAT_Decal_Selected Validating asset
+[2025.01.18-18.06.51:893][962]MaterialEditorStats: Base pass shader: 220 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.18-18.06.51:893][962]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.18-18.06.51:893][962]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.18-18.06.51:893][962]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.18-18.06.51:893][962]MaterialEditorStats: Shader Count: 12
+[2025.01.18-18.06.51:893][962]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.18-18.06.52:124][986]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3584.564209
+[2025.01.18-18.06.52:273][  4]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.18-18.06.52:274][  4]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3584.705322, Update Interval: 343.128143
+[2025.01.18-18.08.59:789][260]LogDerivedDataCache: C:/Users/Leroy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
