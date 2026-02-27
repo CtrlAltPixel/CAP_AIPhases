@@ -1,6 +1,24 @@
-[4872:23160:0226/233607.202:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4872:11104:0226/233607.394:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4872:23160:0226/233607.478:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[4872:23160:0226/233616.009:ERROR:device_event_log_impl.cc(196)] [23:36:15.886] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[10728:18492:0226/233616.241:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A0AFC526337E344BD6C784F1238E7786 will be ignored
-[4872:23160:0227/003429.017:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[5260:18416:0227/130741.694:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5260:18416:0227/130741.751:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[5260:29636:0227/130741.773:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[5260:18416:0227/130741.803:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5260:29636:0227/130745.970:WARNING:leveldb_database.cc(141)] Unable to open D:\Github\LukeT\CAP_AIPhases\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Github\LukeT\CAP_AIPhases\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5260:29636:0227/130745.973:WARNING:leveldb_database.cc(141)] Unable to open D:\Github\LukeT\CAP_AIPhases\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Github\LukeT\CAP_AIPhases\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5260:29636:0227/130745.976:WARNING:leveldb_database.cc(141)] Unable to open D:\Github\LukeT\CAP_AIPhases\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Github\LukeT\CAP_AIPhases\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5260:29636:0227/130745.979:WARNING:leveldb_database.cc(141)] Unable to open D:\Github\LukeT\CAP_AIPhases\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Github\LukeT\CAP_AIPhases\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5260:5092:0227/130747.162:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5260:5092:0227/130747.164:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33808:34500:0227/130748.057:ERROR:backend_impl.cc(989)] Critical error found -8
+[5260:6780:0227/130748.112:WARNING:leveldb_database.cc(141)] Unable to open D:\Github\LukeT\CAP_AIPhases\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\Github\LukeT\CAP_AIPhases\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33808:34500:0227/130748.271:WARNING:storage_block-inl.h(138)] Failed data load.
+[33920:33924:0227/130748.380:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-549B581CF87D5A2609FE013B632D06D2 will be ignored
+[5260:33464:0227/130750.126:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5260:18416:0227/130832.435:ERROR:device_event_log_impl.cc(196)] [13:08:32.427] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[5260:33464:0227/131010.207:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5260:33464:0227/131219.059:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5260:33464:0227/131540.972:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5260:33464:0227/131652.667:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5260:33464:0227/131810.080:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5260:33464:0227/133350.224:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5260:33464:0227/133436.648:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5260:18416:0227/140734.458:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

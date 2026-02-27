@@ -1,3 +1,5 @@
-2026/02/24-22:57:59.268 4e24 Reusing MANIFEST C:\Users\Leroy\Documents\UnrealProjects\CAP_AIPhases\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/02/24-22:57:59.275 4e24 Recovering log #3
-2026/02/24-22:57:59.275 4e24 Reusing old log C:\Users\Leroy\Documents\UnrealProjects\CAP_AIPhases\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/02/27-13:07:42.664 8404 Log #3: 15 ops saved to Table #4 OK
+2026/02/27-13:07:42.666 8404 Archiving D:\Github\LukeT\CAP_AIPhases\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/02/27-13:07:42.666 8404 Table #4: 15 entries OK
+2026/02/27-13:07:42.667 8404 Archiving D:\Github\LukeT\CAP_AIPhases\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/02/27-13:07:42.948 8404 **** Repaired leveldb D:\Github\LukeT\CAP_AIPhases\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 347 bytes. Some data may have been lost. ****
